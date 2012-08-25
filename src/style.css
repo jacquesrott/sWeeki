@@ -1,0 +1,266 @@
+/*
+
+Google fonts : Open Sans
+
+*/
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/k3k702ZOKiLJc3WVjuplzKRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Open Sans Bold Italic'), local('OpenSans-BoldItalic'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/PRmiXeptR36kaC0GEAetxhbnBKKEOwRKgsHDreGcocg.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Open Sans Italic'), local('OpenSans-Italic'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/xjAJXh38I15wypJXxuGMBrrIa-7acMAeDBVuclsi6Gc.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+}
+
+/*
+
+Defines the Wikipedia CSS
+The !important statement is ... important : this stylesheet is loaded before Wikipedia's stylesheets.
+
+*/
+
+html, body {
+    font-family: "Open Sans", sans-serif !important;
+    line-height: 22px !important;
+    font-size: 14px !important;
+}
+
+#bodyContent, div#bodyContent {
+    line-height: 22px !important;
+    font-size: 14px !important;
+}
+
+p {
+    margin: 20px 0px !important;
+    line-height: 22px !important;
+    text-align: justify !important;
+    font-size: 14px !important;
+}
+
+dl {
+   padding: 20px !important;
+}
+
+li {
+    margin-bottom: 10px !important;
+}
+
+h1, h2, h3, h4 {
+    margin-bottom: 20px !important;
+    text-transform: uppercase !important;
+}
+
+h3 {
+    font-size: 100% !important;
+}
+
+div#content {
+    padding: 20px !important;
+}
+
+
+
+/*
+
+Article main title
+
+*/
+
+#firstHeading {
+    padding-bottom: 10px !important;
+    margin-bottom: 20px !important;
+    text-transform: none !important;
+}
+
+div.topicon {
+    top: -50px !important;
+}
+
+/*
+
+Contents Box
+
+*/
+
+#toc, .toc, .mw-warning, .boite-a-droite, .boite-grise {
+    padding: 10px 20px !important;
+    -webkit-border-radius: 2px !important;
+    -moz-border-radius: 2px !important;
+    border-radius: 2px !important;
+    margin-bottom: 20px !important;
+}
+
+.toc ul li {
+    margin-bottom: 10px !important;
+}
+
+.toc ul li ul {
+    margin-top: 5px !important;
+    padding-bottom: 5px !important;
+}
+
+/*
+
+Right Infobox
+
+*/
+
+.infobox_v2 {
+    line-height: 22px !important;
+    margin-left: 40px !important;
+    -webkit-border-radius: 2px !important;
+    -moz-border-radius: 2px !important;
+    border-radius: 2px !important;
+}
+
+.infobox_v2 th {
+    line-height: normal !important;
+}
+
+.infobox p {
+  margin: 10px 0px !important;
+}
+
+
+div.thumbinner, table.wikitable, .catlinks, .bandeau-portail {
+    -webkit-border-radius: 2px !important;
+    -moz-border-radius: 2px !important;
+    border-radius: 2px !important;
+}
+
+/*
+
+Search Bar
+
+*/
+
+div#simpleSearch {
+    width: 400px !important;
+    height: 24px !important;
+    border-bottom: 0px !important;
+}
+
+div#simpleSearch input#searchInput {
+    padding-top: 4px !important;
+    padding-left: 7px !important;
+    color: #000 !important;
+}
+
+div#simpleSearch button#searchButton {
+    padding-top: 7px !important;
+}
+
+.suggestions-results,
+.suggestions-result,
+.suggestions-special,
+.suggestions-result-current,
+.special-label {
+    line-height: 22px !important;
+    font-size: 14px !important;
+}
+
+/*
+
+Tabs
+
+*/
+
+div.vectorTabs li a {
+    height: 18px !important;
+    line-height: 22px !important;
+    font-size: 14px !important;
+}
+
+div.vectorTabs span a {
+    padding-top: 11px !important;
+}
+
+.vectorTabs ul, .vectorTabs ul li {
+    margin-bottom: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+div.vectorTabs span > a {
+    margin-bottom: 6px;
+}
+
+
+/*
+
+Quotes
+
+*/
+
+.mw-content-ltr dd, .mw-content-rtl .mw-content-ltr dd, blockquote {
+    color: #707070 !important;
+}
+
+
+/*
+
+Image Gallery
+
+*/
+
+div.gallerytext p {
+    margin: 0px !important;
+    text-align: center !important;
+    line-height: normal !important;
+}
+
+/*
+
+Main Page
+
+*/
+
+#mw-content-text table td, .thumb {
+    -webkit-border-radius: 2px !important;
+    -moz-border-radius: 2px !important;
+    border-radius: 2px !important;
+}
+
+#mw-content-text table td div h2 {
+    padding-top: 0px !important;
+}
+
+.mw-content-ltr ul, .mw-content-rtl .mw-content-ltr ul {
+    margin: 20px 0 0 20px !important;
+}
+
+.mw-body h1, .mw-body h2, .mw-body h3 {
+    padding-top: 20px !important;
+}
+
+#mw-content-text div div div h2, .MainPageBG h2 {
+    padding-top: 3px !important;
+}
+
+#hauptseite h2, .MainPageBG h2 {
+    margin-bottom: 0px !important;
+}
+
+ul.bandeau-portail {
+    margin-left: 0px !important;
+}
+
+div.bandeau-section {
+    margin: 0 0 20px 40px !important;
+}
