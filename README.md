@@ -33,3 +33,4 @@ Good to know
 ------------
 
 The plugin has been tested on French, English, German, Italian and Spanish wikipedia pages.
+=======
