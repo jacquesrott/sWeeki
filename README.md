@@ -19,18 +19,17 @@ Try it
 Examples
 --------
 
-Article header
-![Header](https://github.com/jacquesrott/sweeki/showcase/header.png)
+![Header](https://github.com/jacquesrott/sWeeki/blob/master/showcase/header.png)
 
-![Content](https://github.com/jacquesrott/sweeki/showcase/content.png)
+![Content](https://github.com/jacquesrott/sWeeki/blob/master/showcase/content.png)
 
-![Search](https://github.com/jacquesrott/sweeki/showcase/search.png)
+![Search](https://github.com/jacquesrott/sWeeki/blob/master/showcase/search.png)
 
-![Home](https://github.com/jacquesrott/sweeki/showcase/home.png)
+![Home](https://github.com/jacquesrott/sWeeki/blob/master/showcase//home.png)
 
 
 Good to know
 ------------
 
 The plugin has been tested on French, English, German, Italian and Spanish wikipedia pages.
-=======
+
