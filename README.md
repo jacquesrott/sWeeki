@@ -19,13 +19,13 @@ Try it
 Examples
 --------
 
-![Header](https://github.com/jacquesrott/sWeeki/blob/master/showcase/header.png)
+![Header](https://raw.github.com/jacquesrott/sWeeki/master/showcase/header.png)
 
-![Content](https://github.com/jacquesrott/sWeeki/blob/master/showcase/content.png)
+![Content](https://raw.github.com/jacquesrott/sWeeki/master/showcase/content.png)
 
-![Search](https://github.com/jacquesrott/sWeeki/blob/master/showcase/search.png)
+![Search](https://raw.github.com/jacquesrott/sWeeki/master/showcase/search.png)
 
-![Home](https://github.com/jacquesrott/sWeeki/blob/master/showcase//home.png)
+![Home](https://raw.github.com/jacquesrott/sWeeki/master/showcase/home.png)
 
 
 Good to know
