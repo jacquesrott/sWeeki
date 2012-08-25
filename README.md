@@ -11,8 +11,8 @@ Try it
  - Go to the Extensions tab in Chrome Settings
  - Enable the **Developper Mode**
  - Click on **Load unpacked extension...**
- - Go to the *src* folder in sWiki project folder 
- - Enable the extensions 
+ - Go to the *src* folder in sWeeki project folder 
+ - Enable the extension
  - [Enjoy !](http://en.wikipedia.org/wiki/Special:Random)
 
 
